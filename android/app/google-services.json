@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212361806590",
+    "project_id": "security-app-cb1e2",
+    "storage_bucket": "security-app-cb1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212361806590:android:0019640fa11686a19f5baf",
+        "android_client_info": {
+          "package_name": "com.zipsites.securityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212361806590-3pe1pm2opqv3n7cavlhk1ttlmqq7kr81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRcwG3tCvMWDnm6b53Uv7VQF05_Ui2nZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212361806590-3pe1pm2opqv3n7cavlhk1ttlmqq7kr81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212361806590-3s9sbse9fl7h1asls72nsvfg1tq0ggi1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zipsites.securityapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
